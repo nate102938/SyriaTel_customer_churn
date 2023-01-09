@@ -47,6 +47,40 @@ SyriaTel, a US-based telecommunications company, asked me (Nate Kist, of CRM Con
 
 ### Round 1 - Simple Models (default hyperparameters)
 
+### Round 2 - Simple Models with Balanced Data
+
+### Round 3 - Hyperparameter Tuning the 3 Best Performing Models
+
+### Best Model
+
+## Evaluation / Results
+
+## Next Steps
+
+## For More Information   
+
+See the full analysis in the [Jupyter Notebook](./index.ipynb) or review this [presentation](./presentation.pdf).
+
+**For additional info, contact:**
+- Nate Kist: natekist@outlook.com
+
+## Repository Structure
+
+```
+├── images
+│   ├── header.jpg
+│   ├── header2.jpg
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── feedback.png
+├── data
+│   ├── bigml_59c28831336c6604c800002a.csv
+├── notebook.ipynb
+├── presentation.pdf
+└── README.md
+```
+
 
 
 
