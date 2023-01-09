@@ -21,23 +21,29 @@ SyriaTel, a US-based telecommunications company, asked me (Nate Kist, of CRM Con
 
 ## Data Understanding
 
-#### Imports
-
-#### Functions and Constants
-
-#### Importing data
-
-#### Data review and cleaning
+- No nulls.  No need to impute anything.  
+- 3333 rows.  21 columns.  
+- Ignore phone number. y will be churn series. Everything else will be in X.  
 
 ## Data Preparation
+- Figure out feature types for the purpose of column transformers
+- Train, test, split the data,
+- Create column transformers
 
-#### Figure out feature types
+## Exploratory Data Analysis 
 
-#### Train-test-split of the data
+### Churn by State
 
-Prevent leakage by splitting the data before doing anything related to modeling.
+### Churn by International Plan
 
-This seems to be imbalanced.  Plan on using SMOTE to oversample the minority class later on. 
+### Churn by Number of Service Calls
+
+
+
+## Modeling
+### Baseline Model
+
+### Round 1 - Simple Models (default hyperparameters)
 
 
 
