@@ -75,10 +75,12 @@ Best Hyperparameters:
 
 ## Next Steps
 
-- **More customer data:** We were able to create a model with 96% accuracy on limited data.  The more data that can be provided (data on more customers or additional data on each customer), it is possible we can improve the model's accuracy further.  
+**More customer data:** 
+- We were able to create a model with 96% accuracy on limited data.  The more data that can be provided (data on more customers or additional data on each customer), it is possible we can improve the model's accuracy further.  
 
 
-- **Customer retention plan:** Once you know which customers are at risk of leaving, you should have a plan for what you will offer them to stay that both minimizes the cost of retention but also alleviates their risk of leaving.    
+**Customer retention plan:** 
+- Once you know which customers are at risk of leaving, you should have a plan for what you will offer them to stay that both minimizes the cost of retention but also alleviates their risk of leaving.    
 
 ## For More Information   
 
