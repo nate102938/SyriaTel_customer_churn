@@ -59,6 +59,7 @@ In Round 3, I took the best performing models from Round 1 (XGBoost, Gradient Bo
 
 XGBoost was the model with the best accuracy on test data using gridsearching.  It had an accuracy of 96%.  
 Best Hyperparameters:
+
 - 'model__learning_rate': 0.5
 - 'model__max_depth': 6
 - 'model__min_child_weight': 0
