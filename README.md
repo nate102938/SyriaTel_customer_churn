@@ -27,8 +27,8 @@ SyriaTel, a US-based telecommunications company, asked me (Nate Kist, of CRM Con
 
 ## Data Preparation
 - Figure out feature types for the purpose of column transformers
-- Train, test, split the data,
-- Create column transformers
+- Train, test, split the data:  Used a 65%/35% train/test split of the data.  
+- Create column transformers:  For numeric columns, I scaled the data.  For categorical columns, I one-hot encoded them.  
 
 ## Exploratory Data Analysis 
 
