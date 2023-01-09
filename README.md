@@ -33,11 +33,13 @@ SyriaTel, a US-based telecommunications company, asked me (Nate Kist, of CRM Con
 ## Exploratory Data Analysis 
 
 ### Churn by State
+![header](./images/1.png)
 
 ### Churn by International Plan
+![header](./images/2.png)
 
 ### Churn by Number of Service Calls
-
+![header](./images/3.png)
 
 
 ## Modeling
